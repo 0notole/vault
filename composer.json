@@ -1,0 +1,11 @@
+{
+    "name": "0notole/vault",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anatoly Silko",
+            "email": "silko.a@gmail.com"
+        }
+    ],
+    "require": {}
+}
