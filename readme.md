@@ -30,4 +30,4 @@ Seed
 `php artisan db:seed --class=0notole\\Vault\\Seeds\\SettingsSeeder`
 
 If you'd like to remove the package
-`composer remove supersonic/vault --update-with-dependencies`
+`composer remove 0notole/vault --update-with-dependencies`
